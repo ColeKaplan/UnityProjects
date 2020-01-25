@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{1B99E346-DE91-2B22-3BC5-32FAC86ED539}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/WallVelocity.cs">
+    <Files>
+      <File FileName="Assets/Script/BallVelocity.cs" Line="27" Column="1" />
+      <File FileName="Assets/Script/FollowPlayer.cs" Line="18" Column="51" />
+      <File FileName="Assets/Script/WallVelocity.cs" Line="17" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BallInWall" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Script" expanded="True">
+                <Node name="WallVelocity.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="707a7e3c-2ad6-4cc5-88aa-0b21aafaf2d8" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

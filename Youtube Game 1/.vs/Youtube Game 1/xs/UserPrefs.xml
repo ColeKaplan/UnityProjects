@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{A51979FB-EC12-305A-317D-0FC0E08FB9B9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/RestartLevel.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MapPulse.cs" Line="16" Column="1" />
+      <File FileName="Assets/Scripts/AddPlayerControlledVelocity.cs" Line="28" Column="1" />
+      <File FileName="Assets/Scripts/DestroyOnClick.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Score.cs" Line="48" Column="1" />
+      <File FileName="Assets/Scripts/DontDestroy.cs" Line="18" Column="18" />
+      <File FileName="Assets/Scripts/RestartLevel.cs" Line="13" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Youtube Game 1" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="RestartLevel.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a3cf5cdd-98a5-4def-93ea-f6ef7a43c451" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

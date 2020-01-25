@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{54FF0561-52F1-EF79-24BE-D8850434E496}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/RestartLevelOnCollision.cs">
+    <Files>
+      <File FileName="Assets/Scripts/AddPlayerControlledVelocity.cs" Line="22" Column="39" />
+      <File FileName="Assets/Scripts/Score.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Score1.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DontDestroy.cs" Line="29" Column="1" />
+      <File FileName="Assets/Scripts/RestartLevelOnCollision.cs" Line="21" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FinalProjectSoccer" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="RestartLevelOnCollision.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="53c1b6c4-47e2-4a0d-ac99-6aced7feb577" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
