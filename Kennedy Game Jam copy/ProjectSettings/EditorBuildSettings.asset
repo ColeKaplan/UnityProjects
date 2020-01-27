@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/EnterScene.unity
+    guid: e3facf9dcd0a349adb7e16252405a9d0
+  - enabled: 1
+    path: Assets/Scenes/Challenge1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Challenge2.unity
+    guid: 23c31a17530b048fdbfae98854077d0d
+  - enabled: 1
+    path: Assets/Scenes/Challenge3.unity
+    guid: 025d431b5f21745df801be13b4c27c43
+  - enabled: 1
+    path: Assets/Scenes/Sand1.unity
+    guid: 51787dacff3b9401190cab73ec771b26
+  - enabled: 1
+    path: Assets/Scenes/Sand2.unity
+    guid: af62709c7b1fe4283b24749dfc852d21
+  - enabled: 1
+    path: Assets/Scenes/Sand3.unity
+    guid: f323c2c50724c44218d48c6fa70e45e5
+  - enabled: 1
+    path: Assets/Scenes/Cake1.unity
+    guid: 9cb5cd592c56d4069ac031e71ed75fa2
+  - enabled: 1
+    path: Assets/Scenes/Cake2.unity
+    guid: 6e6a9634f6543485a8f2e5d483d02749
+  - enabled: 1
+    path: Assets/Scenes/Cake3.unity
+    guid: 1e665ef60f9484934989f60e0d2dafd5
+  - enabled: 0
+    path: Assets/BenesAssests/Old Scenes/old Start Menu.unity
+    guid: 67eb2b3cfd6e04f018539205dede7589
+  - enabled: 0
+    path: Assets/BenesAssests/Old Scenes/old howToPlay.unity
+    guid: 5a5e293cd4d9d42cb9662d63488782a1
+  - enabled: 0
+    path: Assets/BenesAssests/Old Scenes/old credits.unity
+    guid: b988be2f565fc4c16b53cddc719ef587
+  - enabled: 1
+    path: Assets/Scenes/EndingScene.unity
+    guid: bbc6f5f8b5628462781426c6ba6de311
+  - enabled: 0
+    path: Assets/Scenes 1/Start Menu.unity
+    guid: 6517f886e0619485e86ef1a35a1053bd
+  - enabled: 0
+    path: Assets/Scenes 1/poem.unity
+    guid: 0397d8cc97c704724b8942cd55a29c8b
+  - enabled: 0
+    path: Assets/Scenes 1/howToPlay.unity
+    guid: d92024e02f12044c092b5c55501c5285
+  - enabled: 0
+    path: Assets/Scenes 1/credits.unity
+    guid: 6dadbe667b9114360bf4e52819b1f64e
+  - enabled: 1
+    path: Assets/Scenes 2/howToPlay.unity
+    guid: 8c36a619fd6284097a1c1978f30d0a03
+  - enabled: 1
+    path: Assets/Scenes 2/credits.unity
+    guid: 8d64ddbf29feb4ca1aefed8bf5c07041
+  - enabled: 1
+    path: Assets/Scenes 2/poem1.unity
+    guid: 0040255a3f37f4335a236cedf8d67525
+  - enabled: 1
+    path: Assets/Scenes 2/Start Menu.unity
+    guid: c3719c453f7f044878f6ffcd02bb6601
+  m_configObjects: {}
